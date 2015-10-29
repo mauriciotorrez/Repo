@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Encuentra trabajo</string>
+    <string name="menu_syncronize">Sincronizar</string>
+    <string name="menu_post_job">Postear Trabajo</string>
+    <string name="title_form">Titulo</string>
+    <string name="description_form">Description</string>
+    <string name="contact_form">Contacto</string>
+    <string name="post_form">Postear</string>
+</resources>

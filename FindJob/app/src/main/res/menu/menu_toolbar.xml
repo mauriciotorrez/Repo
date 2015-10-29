@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xmls="http://schemas.android.com/apk/res-auto"
+    xmlns:support="http://schemas.android.com/tools"
+    >
+
+    <item
+        android:id="@+id/menu_syncronize"
+
+        android:title="@string/menu_syncronize"
+        support:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu_post_job"
+
+        android:title="@string/menu_post_job"
+        support:showAsAction="never"/>
+
+
+</menu>
