@@ -1,0 +1,14 @@
+/**
+ * Appcelerator Titanium
+ * this is a generated file - DO NOT EDIT
+ */
+
+"appName" = "Zipper";
+"btnLogin" = "Ingresar";
+"msgUNEmpty" = "Usuario vacio";
+"msgPEmpty" = "Contrasena vacia";
+"addFavorites" = "Agregar a favoritos";
+"searcherOnlineProg" = "Buscador online de series";
+"programsFinder" = "Buscador de series";
+"favorites" = "Mis favoritos";
+"updateData" = "Actualizar data";

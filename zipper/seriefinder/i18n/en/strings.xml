@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	
+	<string name="appName">Zipper</string>
+	<string name="btnLogin">Login</string>
+	<string name="msgUNEmpty">Empty Username</string>
+	<string name="msgPEmpty">Empty Password</string>
+	<string name="addFavorites">Add to favorites</string>
+	<string name="searcherOnlineProg">Programs search online</string>
+	<string name="programsFinder">Programs finder</string>
+	<string name="favorites">My favorites</string>
+	<string name="updateData">Update data</string>
+</resources>

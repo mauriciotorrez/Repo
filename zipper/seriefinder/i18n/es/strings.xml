@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	
+	<string name="appName">Zipper</string>
+	<string name="btnLogin">Ingresar</string>
+	<string name="msgUNEmpty">Usuario vacio</string>
+	<string name="msgPEmpty">Contrasena vacia</string>
+	<string name="addFavorites">Agregar a favoritos</string>
+	<string name="searcherOnlineProg">Buscador online de series</string>
+	<string name="programsFinder">Buscador de series</string>
+	<string name="favorites">Mis favoritos</string>
+	<string name="updateData">Actualizar data</string>
+</resources>
